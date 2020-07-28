@@ -1,0 +1,30 @@
+{
+  "name": "insta-report",
+  "version": "0.1.0",
+  "description": "View your instagram statistics in one place, monitor who follows and unfollows you.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1p/insta-report.git"
+  },
+  "keywords": [
+    "instagram",
+    "report",
+    "statisfics",
+    "follow",
+    "unfollow",
+    "insta"
+  ],
+  "author": "Debashis Dip",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/d1p/insta-report/issues"
+  },
+  "homepage": "https://github.com/d1p/insta-report#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
